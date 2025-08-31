@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Michael-Learnstorock-Okelo software engineer, web developer and IT consultant 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning computer science 
+- 👀 I’m interested in machine learning and software development
+- 🌱 I’m currently learning SCADA
 - 💞️ I’m looking to collaborate on any ICT related project 
-- 📫 How to reach me ...on WhatsApp 0746473433
+- 📫 How to reach me on WhatsApp 0746473433
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
